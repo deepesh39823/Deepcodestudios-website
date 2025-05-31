@@ -18,7 +18,7 @@ Welcome to the official repository for **DeepCodeStudios** — a modern, respons
 
 ## 📸 Screenshots
 
-_Add screenshots or a demo GIF here (optional)_
+![Screenshot 2025-05-31 204846](https://github.com/user-attachments/assets/2c9bac3e-b0dc-4a56-bddd-16986bded906)
 
 ## 📁 Folder Structure
 
