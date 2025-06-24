@@ -20,14 +20,3 @@ Welcome to the official repository for **DeepCodeStudios** — a modern, respons
 
 ![Screenshot 2025-05-31 204846](https://github.com/user-attachments/assets/2c9bac3e-b0dc-4a56-bddd-16986bded906)
 
-## 📁 Folder Structure
-
-```bash
-deepcodestudios/
-├── index.html
-├── /css
-│   └── styles.css
-├── /js
-│   └── script.js
-├── /images
-│   └── logo.png, etc.
